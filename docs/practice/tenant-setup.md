@@ -1,12 +1,20 @@
 # Tenant Setup – Initial State
 
+## Tenant
+- Microsoft 365 Business Premium (Trial)
+- Region: EU
+- Management Portal: https://endpoint.microsoft.com
+
 ## Admin Accounts
-- Global Admin: ga-setup
-- Endpoint Admin: mdm-admin
+- Global Admin (setup-only): ga-setup
+- Endpoint Admin (daily operations): mdm-admin
 
 ## Groups
 - GRP-Admins-Endpoint
 - GRP-Devices-Autopilot
 - GRP-Users-Intune
 
-No policies applied at this stage.
+## State
+- No Intune policies configured
+- No Conditional Access policies
+- No devices enrolled
