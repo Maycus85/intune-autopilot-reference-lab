@@ -5,6 +5,7 @@
 - Region: EU
 - Management Portal: https://endpoint.microsoft.com
 
+
 ## Admin Accounts
 - Global Admin (setup-only): ga-setup
 - Endpoint Admin (daily operations): mdm-admin
@@ -18,3 +19,10 @@
 - No Intune policies configured
 - No Conditional Access policies
 - No devices enrolled
+
+## Licensing
+- Microsoft 365 Business Premium (Trial)
+
+## Verification Status
+- Tenant created
+- Microsoft verification pending
