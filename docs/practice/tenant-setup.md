@@ -4,6 +4,7 @@
 - Microsoft 365 Business Premium (Trial)
 - Region: EU
 - Management Portal: https://endpoint.microsoft.com
+- Status: Active
 
 
 ## Admin Accounts
