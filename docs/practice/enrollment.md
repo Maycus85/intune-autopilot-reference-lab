@@ -1,22 +1,16 @@
-## Endpoint Manager
-→ Devices
-→ Device onboarding
-→ Enrollment
+## Test Policy – Wrong Scope (Learning Case)
 
-Endpoint Manager
-→ Devices
-→ Configuration profiles
-→ Create profile
+Policy:
+- Platform: Windows 10 and later
+- Type: Settings catalog
+- Setting: Device name
+- Assignment: Users (All users)
 
-LAB – Test Policy (Wrong Scope)
+Observed status:
+- Device status: Not applicable
 
-Policy intentionally assigned to wrong scope for learning purposes.
+Lesson:
+- Device-based settings assigned to users result in Not applicable
+- Scope must match setting type (device vs user)
 
-Device name
 
-INTUNE-LAB
-
-Devices
-→ Configuration profiles
-→ LAB – Test Policy (Wrong Scope)
-→ Device status
