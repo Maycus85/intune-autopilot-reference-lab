@@ -27,3 +27,9 @@
 ## Verification Status
 - Tenant created
 - Microsoft verification pending
+
+## Admin Roles
+- ga-setup: Global Administrator (setup-only)
+- mdm-admin:
+  - Intune Administrator
+  - Endpoint Security Administrator
