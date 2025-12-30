@@ -50,6 +50,9 @@ Compliance policies evaluate state and provide reporting for Conditional Access.
 - Configuration policy overview remained at 0 counts
 - Compliance policy overview updated after aggregation
 
+- This behavior was observed in a fresh tenant with a single enrolled device,
+making reporting delays more visible than in larger environments.
+
 Conclusion:
 Device-level views are authoritative.
 Policy-level summaries are delayed and not suitable for troubleshooting.
